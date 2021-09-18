@@ -1,0 +1,44 @@
+﻿img {
+    width: 5%;
+    height: 5%;
+    float:none;
+    border-radius:50%;
+}
+#top{
+    float:left;
+    color:chocolate;
+}
+.first{
+    align-content:center;
+}
+body {
+    background-image: url(./images/love.jfif);
+    background-repeat: no-repeat;
+    background-size: 100% 350%;
+}
+.para{
+    opacity: 0.4;
+}
+#eros{
+    color:forestgreen;
+}
+#strong{
+    color:deeppink;
+}
+
+#pragma{
+    color:blueviolet;
+}
+
+#agape{
+    color:brown;
+}
+#ludus{
+    color:yellow;
+}
+#mania{
+    color:orangered;
+}
+footer{
+    color:darkblue;
+}
